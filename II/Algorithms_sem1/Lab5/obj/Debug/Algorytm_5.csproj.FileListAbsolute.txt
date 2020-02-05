@@ -1,0 +1,9 @@
+C:\Users\Dima\Desktop\PPP\Algorytm_5\Algorytm_5\bin\Debug\Algorytm_5.exe.config
+C:\Users\Dima\Desktop\PPP\Algorytm_5\Algorytm_5\bin\Debug\Algorytm_5.exe
+C:\Users\Dima\Desktop\PPP\Algorytm_5\Algorytm_5\bin\Debug\Algorytm_5.pdb
+C:\Users\Dima\Desktop\PPP\Algorytm_5\Algorytm_5\obj\Debug\Algorytm_5.csprojAssemblyReference.cache
+C:\Users\Dima\Desktop\PPP\Algorytm_5\Algorytm_5\obj\Debug\Algorytm_5.Form1.resources
+C:\Users\Dima\Desktop\PPP\Algorytm_5\Algorytm_5\obj\Debug\Algorytm_5.Properties.Resources.resources
+C:\Users\Dima\Desktop\PPP\Algorytm_5\Algorytm_5\obj\Debug\Algorytm_5.csproj.GenerateResource.cache
+C:\Users\Dima\Desktop\PPP\Algorytm_5\Algorytm_5\obj\Debug\Algorytm_5.exe
+C:\Users\Dima\Desktop\PPP\Algorytm_5\Algorytm_5\obj\Debug\Algorytm_5.pdb
